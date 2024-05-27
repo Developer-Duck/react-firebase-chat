@@ -16,8 +16,8 @@ body{
 }
 
 .container{
-  width: 80vw;
-  height: 90vh;
+  width: 95vw;
+  height: 95vh;
   background-color: rgb(17, 25, 50, 0.75);
   /* 블러효과 */
   backdrop-filter: blur(19px) saturate(180%);

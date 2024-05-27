@@ -17,12 +17,6 @@ const Detail = () =>{
                 </div>
                 <div className="option">
                     <div className="title">
-                        <span>Chat Setting</span>
-                        <img src="./arrowUp.png" alt="" />
-                    </div>
-                </div>
-                <div className="option">
-                    <div className="title">
                         <span>Privacy & help</span>
                         <img src="./arrowUp.png" alt="" />
                     </div>
