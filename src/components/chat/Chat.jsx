@@ -29,7 +29,7 @@ console.log(text)
                 <div className="user">
                     <img src="./avatar.png" alt="" />
                     <div className="texts">
-                        <span>Jane Doe</span>
+                        <span>박유노</span>
                         <p>Lorem ipsum dolor, sit amet.</p>
                     </div>
                 </div>
